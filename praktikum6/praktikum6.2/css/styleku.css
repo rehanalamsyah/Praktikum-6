@@ -1,0 +1,52 @@
+#header{ 
+    background-color: chocolate; 
+    padding-bottom: 5px; 
+} 
+ 
+h1{ 
+    color: blue; 
+    text-align: center; 
+} 
+ 
+blockquote{ 
+     
+    text-align: center; 
+    background-color: yellow; 
+} 
+ 
+body{ 
+    font-family: unset;
+} 
+  
+#list{ 
+    text-align: center; 
+} 
+ 
+#list ul{ 
+    list-style: none; 
+}
+ 
+.gambar img{ 
+    width: 15%; 
+}
+
+.gambar{ 
+    text-align: center; 
+     
+}
+
+.koleksi{
+ text-align: center;
+}
+
+.promo{
+    text-align: center;
+}
+
+.olshop{
+    text-align: center;
+}
+
+.olshop ol{
+    list-style: none;
+}
